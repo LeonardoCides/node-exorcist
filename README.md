@@ -13,7 +13,7 @@ A lightweight, production-ready **Node.js automation script** designed to monito
 
  **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/node-file-cleaner.git](https://github.com/LeonardoCides/node-exorcist.git)
+   git clone https://github.com/your-username/node-exorcist
    cd node-exorcist
    node cleaner.js
    ```
